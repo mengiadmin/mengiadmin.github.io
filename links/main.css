@@ -91,6 +91,16 @@ a:hover {
   text-decoration: underline;
 }
 
+b {
+    color: gray;
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+
+b:hover {
+  text-decoration: underline;
+}
+
 p {
     margin-bottom: 1rem;
 }
